@@ -11,9 +11,12 @@
     "@types/react": "^16.9.34",
     "@types/react-dom": "^16.9.7",
     "react": "^16.13.1",
+    "react-add-to-calendar-hoc": "^1.0.9",
+    "react-cool-onclickoutside": "^1.4.5",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "use-onclickoutside": "^0.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
