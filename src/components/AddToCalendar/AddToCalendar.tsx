@@ -50,8 +50,6 @@ export const AddToCalendar: React.FC<IAddToCalendarProps> = ({
   };
 
   useEffect(() => {
-    console.log(hocRef);
-
     if (hocRef) {
       document.addEventListener("click", handleClick);
     }
